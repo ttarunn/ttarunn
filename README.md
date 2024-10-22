@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ttarunn
 
-I'm a **Software Engineer** with 3 years of hands-on experience specializing in **Web Development**. I am passionate about building web applications that are scalable, efficient, and user-friendly. Currently, I'm deepening my knowledge of backend technologies like Node.js, Express.js, and MongoDB.
+I'm a **Software Engineer** with hands-on experience specializing in **Web Development**. I am passionate about building web applications that are scalable, efficient, and user-friendly. Currently, I'm deepening my knowledge of backend technologies like Node.js, Express.js, and MongoDB.
 
 ## 💼 Professional Experience
 - **3 years** of experience in web development, focusing on building dynamic and responsive applications.
