@@ -22,7 +22,6 @@ I'm a **Software Engineer** with hands-on experience specializing in **Web Devel
 
 ## 📫 How to reach me:
 - **Email**: ttarunn0709@gmail.com
-- **LinkedIn**: [linkedin.com/in/ttarunn](https://linkedin.com/in/ttarunn)
 
 ---
 
